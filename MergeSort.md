@@ -4,8 +4,8 @@
 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
+-------------------------------------------------------------------
 1.Sorunun Cevabı:
-
 1.Adım: [16,21,11,8,12,22] ortadan iki gruba ayır. <br>
 2.Adım: [16,21,11]-[8,12,22] tekrar 2 ye ayır. <br>
 3.Adım: [16,21]-[11]-[8,12]-[22] tekrar 2 ye ayır. <br>
