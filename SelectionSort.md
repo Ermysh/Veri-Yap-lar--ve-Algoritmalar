@@ -11,6 +11,7 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
 2.Worst case: Aradığımız sayının sonda olması<br>
 3.Best case: Aradığımız sayının dizinin en başında olması.<br>
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.<br>
+
 -------------------------------------------------------------------------
 Cevaplar<br>
 1.Sorunun Cevabı:<br>
